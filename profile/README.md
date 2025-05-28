@@ -103,6 +103,16 @@ Formated in markdown:
 > [!CAUTION]
 > Negative potential consequences of an action.
 
+## Edit this README.md
+
+To edit this readme clone the following repository locally:
+
+```bash
+git clone git@github.com:NataliaCalderonDesignLLC/.github.git
+```
+
+Once cloned edit the `README.md` within `profile/README.md` and push changes.
+
 ## Sources
 
 * [Semantic Versioning](https://semver.org/)
