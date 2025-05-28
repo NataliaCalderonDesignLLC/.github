@@ -5,7 +5,7 @@ Private Github organization
 ## Workflow
 
 > [!IMPORTANT]  
-> Before starting any code changes ensure you're not on `main` branch.
+> Before starting any code changes ensure you're not on `main` branch. Expand `Workflow steps` for more information.
 
 <details>
   <summary>Workflow steps</summary>
