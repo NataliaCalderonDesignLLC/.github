@@ -1,5 +1,7 @@
 # NataliaCalderonDesignLLC
 
+![NC Design Logo](../attachments/nc-design-logo-full.png)
+
 Private Github organization
 
 ## Workflow
