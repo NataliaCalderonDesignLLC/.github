@@ -5,10 +5,7 @@ Private Github organization
 ## Workflow
 
 > [!IMPORTANT]  
-> Before starting any code changes ensure you're not on `main` branch. Expand `Workflow steps` for more information.
-
-<details>
-  <summary>Workflow steps</summary>
+> Before starting any code changes ensure you're not on `main` branch.
 
 Create a branch off of `main` by running the following command:
 
@@ -47,8 +44,6 @@ git push --tags
 
 > [!IMPORTANT]  
 > Don't forget to cleanup leftover branches that have already been merged
-
-</details>
 
 ## Cleanup
 
